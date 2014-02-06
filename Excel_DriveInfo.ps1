@@ -3,7 +3,7 @@
 
 # This file demonstrates creating an excel document and filling it with information dynamically from several computers on the network. 
 # Very useful script that can be adapted for inventory of specific components in a work network.
-# Author: Keith S.
+# AUTHOR: Keith S.
 
 
 # Create an excel document
